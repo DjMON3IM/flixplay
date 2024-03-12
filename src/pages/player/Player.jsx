@@ -183,6 +183,7 @@ const Player = () => {
           scrolling="yes"
           allowFullScreen
         ></iframe>
+        <script data-cfasync="false" async type="text/javascript" src="//talwarfurred.com/rJRtHy78UZR5yPV6E/74135"></script>
         <div className="source-buttons">
           {sources.map((source, index) => (
             <div
